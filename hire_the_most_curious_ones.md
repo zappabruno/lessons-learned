@@ -1,4 +1,4 @@
-When you are looking for a programmer to hire, especially if it is an individual to be working in your organization, you should try to identify if the person is curious.
+When you are looking for a programmer to hire, especially if it is an individual to be working in your organization, in addition to looking for good references/credentials/relevant past experience, you should try to identify if the person is curious.
 
 But why is it important to be curious in programing?
 It is important because programmers must be constantly finding new and better way to structure their solutions to problems.
